@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway|Josefin+Sans);
+
+body {
+  position: relative;
+  width: 100%;
+}
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+section#about_me {
+	box-shadow: inset 0px 0px 20px rgba(0,0,0,0.9);	
+  padding: 80px 40px 10%;	
+  min-height: 100vh;
+}
+
+
+#about_me {    
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 23px;
+}
+
+#about_me h2{
+	font-size: 48px;
+    text-align: center;
+    padding-bottom: 30px;
+    text-transform: capitalize;
+    font-family: 'Raleway', sans-serif;
+}
+
+
