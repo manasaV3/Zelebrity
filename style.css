@@ -23,10 +23,20 @@ section#about_me {
 
 #about_me h2{
 	font-size: 48px;
-    text-align: center;
-    padding-bottom: 30px;
-    text-transform: capitalize;
-    font-family: 'Raleway', sans-serif;
+  text-align: center;
+  padding-bottom: 30px;
+  text-transform: capitalize;
+  font-family: 'Raleway', sans-serif;
 }
-
+img {
+  max-height: 250px;
+  max-width: 250px;
+}
+img#question {
+  margin: 10px auto 60px;
+}
+#next {
+  margin-top: 25px;
+  display: none;
+}
 
